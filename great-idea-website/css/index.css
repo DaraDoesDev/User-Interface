@@ -63,4 +63,138 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
-/* Your code starts here! */
+
+
+.container {
+	width: 900px;
+	margin: auto;
+}
+
+header nav {
+	display: inline-block;
+	margin-top: 40px;
+}
+
+header .logo {
+	/* margin-left: 130px; */
+}
+
+header nav a {
+	margin: 0 20px;
+	padding-left: 16px;
+	color: LightGrey;
+	text-decoration: none;
+}
+.cta {
+    display: inline-block;
+}
+
+.cta div {
+	display: inline-block;
+	box-sizing: border-box;
+	width: 400px;
+	vertical-align: top;
+}
+.cta img {
+	width: 375px;
+	margin-left: 70px;
+    padding-top: 100px;
+	
+}
+
+.cta-box{
+	padding-bottom: 60px;
+}
+.cta h1 {
+	display: inline-block;
+    font-size: 70px;
+    text-align: center;
+    padding-left: 100px;
+    margin-top: 165px;
+}
+
+.cta a {
+	border: 1px solid black;
+    padding: 7px 37px 7px 33px;
+    text-decoration: none;
+    color: black;
+	display: inline-block;
+	margin-left: 177px;
+
+}
+
+h1 button {
+	display: block;
+}
+
+hr {
+	width: 876px;
+	margin-right: 20px;
+	margin-top: 70px;
+	margin-bottom: 30px;
+}
+
+.main-content {
+	margin: 20px 1%;
+	display: inline-block;
+	width: 45%;
+	border: 3px solid black;
+	vertical-align: top;
+}
+
+.top-main-content section {
+	margin: 20px 0;
+	display: inline-block;
+	width: 440px;
+}
+
+.top-main-content .features {
+	margin: 10px;
+	width: 450px;
+	display: inline-block;
+}
+
+.top-main-content .about {
+	display: inline-block;
+	width: 400px;
+}
+
+.middle-main-content {
+	margin: 40px 0px;
+	display: inline-block;
+	width: 876px;
+}
+
+.middle-main-content .services {
+	display: inline-block;
+	width: 288px;
+}
+
+.middle-main-content .product {
+	display: inline-block;
+	width: 288px;
+}
+
+.middle-main-content .vision {
+	display: inline-block;
+	width: 288px;
+}
+
+
+.main-content img {
+	margin: 0px 40px 0px 40px;
+}
+
+#bottomLine {
+	margin-top: 14px;
+    margin-bottom: 40px;
+}
+
+.contact {
+	padding-left: 20px;
+}
+
+footer {
+	text-align: center;
+	margin-top: 80px;
+}
