@@ -12,7 +12,7 @@ Given this [design file](design-files/desktop.jpg), use HTML and CSS to build th
 
 * Open the code with your preferred integrated development environment (IDE).
 
-* Start on the objectives
+* Start on the objectives. 
 
 ## Objectives:
 
@@ -38,3 +38,4 @@ Stretch goals are not required. Complete the project objectives before working o
 - [ ] Change all the image tags into background images instead
 
 - [ ] Research CSS animations and see how you could implement some ideas when hovering over buttons or navigation items
+Dara Thomas
